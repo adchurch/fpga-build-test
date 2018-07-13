@@ -9,6 +9,6 @@ path = 'FPGA Source\FPGA Workflow Demo.lvproj'
 name = 'My Simple FPGA'
 type = 'lvBuildSpec'
 project = '{fpga}'
-target = 'FPGA Target (PXIe-7856R)'
+target = 'FPGA Target'
 build_spec = 'Simple FPGA'
 
